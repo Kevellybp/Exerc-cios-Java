@@ -1,4 +1,4 @@
-package entities;
+package entitiess;
 
 public class Estudantes {
 private String name;
